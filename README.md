@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1edqRmUYQgoEPvO8P3vz7LhUfkFcEtAiX/view?usp=drive_link](https://drive.google.com/file/d/1edqRmUYQgoEPvO8P3vz7LhUfkFcEtAiX/view?usp=drive_link)
 
-- ⚡ Fun fact **I love eating tasty food.**
+- ⚡ Fun fact **My relationship with coding is like a rollercoaster ride—sometimes I’m head over heels in love, and other times I’m ready to throw my keyboard out the window! 💻❤️🎢.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
