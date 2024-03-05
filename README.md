@@ -1,7 +1,7 @@
 <h1 align="center">Hi, amigos! I'm Jubilant K J</h1>
 <h3 align="center">An enthusiastic developer skilled in both front-end and back-end technologies.</h3>
 
-- 🔭 I'm currently tinkering with [Jubilant-Portfolio](https://github.com/jubilant20/Jubilant_Portfolio)
+- 🔭 I'm currently tinkering with [Course-Selling-Website](https://github.com/jubilant20/Techplement/tree/main/Week1-tasks)
 
 - 📫 How you can reach out to me. **jubilantkj2018@gmail.com**
   
