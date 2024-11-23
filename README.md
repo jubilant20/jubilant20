@@ -1,9 +1,9 @@
 <h1 align="center">Hi, amigos! I'm Jubilant K J</h1>
 <h3 align="center">An enthusiastic developer skilled in both front-end and back-end technologies.</h3>
 
-- 🔭 I'm currently tinkering with [Course-Selling-Website](https://github.com/jubilant20/Techplement/tree/main/Week1-tasks)
+- 🔭 I'm currently tinkering with [Spring_Framework]()
 
-- 📫 How you can reach out to me. **jubilantkj2018@gmail.com**
+- 📫 How can you reach out to me? **jubilantkj2018@gmail.com**
   
 - 👨‍💻 Witness the awesomeness I've unleashed! [https://jubilant-kj.netlify.app/](https://jubilant-kj.netlify.app/)
 
