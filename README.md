@@ -1,15 +1,13 @@
 <h1 align="center">Hi, amigos! I'm Jubilant K J</h1>
-<h3 align="center">An enthusiastic developer skilled in both front-end and back-end technologies.</h3>
+<h3 align="center">Backend developer who enjoys building scalable and reliable systems.</h3>
 
-- 🔭 I'm currently tinkering with [Service-Booking-and-Management-System]()
+- 🔭 Currently improving my dev skills and exploring new ideas (and occasionally questioning my life choices when the code doesn’t run)
 
 - 📫 How can you reach out to me? **jubilantkj2018@gmail.com**
   
 - 👨‍💻 Witness the awesomeness I've unleashed! [https://jubilant-kj.netlify.app/](https://jubilant-kj.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1edqRmUYQgoEPvO8P3vz7LhUfkFcEtAiX/view?usp=drive_link](https://drive.google.com/file/d/1edqRmUYQgoEPvO8P3vz7LhUfkFcEtAiX/view?usp=drive_link)
-
-- ⚡ Fun fact **My relationship with coding is like a rollercoaster ride—sometimes I’m head over heels in love, and other times I’m ready to throw my keyboard out the window! 💻❤️🎢.**
+- ⚡ Fun fact **My relationship with coding is like a rollercoaster ride, sometimes I’m head over heels in love, and other times I’m ready to throw my keyboard out the window! 💻❤️🎢.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
