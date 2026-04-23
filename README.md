@@ -1,19 +1,19 @@
-<h1 align="center">Hi, amigos! I'm Jubilant K J </h1>
+<h1 align="center">Hi, amigos! I'm Jubilant K J 👋</h1>
 
-<p align="center">
+<p>
 Backend developer who enjoys building scalable and reliable systems.<br>
 Currently improving my dev skills and exploring new ideas 
-(and occasionally questioning my life choices when the code doesn’t run 😄).
+(and occasionally questioning my life choices when the code doesn’t run).
 </p>
 
-<p align="center">
+<p>
 <strong>Fun fact:</strong> My relationship with coding is like a rollercoaster ride, 
-Sometimes I’m head over heels in love, and other times I’m ready to throw my keyboard out the window! 💻❤️🎢
+sometimes I’m head over heels in love, and other times I’m ready to throw my keyboard out the window! 💻❤️🎢
 </p>
 
- <h2 align="center">🚀 Languages and Tools I Use</h2>
+<h2>Languages and Tools I Use</h2>
 
-<p align="center">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -31,9 +31,9 @@ Sometimes I’m head over heels in love, and other times I’m ready to throw my
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
-<h2 align="center">⚡️ Where to find me</h2>
+<h2>Where to find me</h2>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/jubilant-k-j/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Jubilant%20K%20J-blue?style=for-the-badge&logo=linkedin" />
 </a>
